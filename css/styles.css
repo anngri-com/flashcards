@@ -1,0 +1,29 @@
+
+h3 {
+  margin-top: 30px;
+}
+
+.answer {
+  display: none;
+}
+
+.card {
+  width: 260px;
+  height: 260px;
+  margin-right: 10px;
+  margin-left: 35px;
+  background-color: lightblue;
+}
+.question {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.answer {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.row {
+  margin-top: 30px;
+}
